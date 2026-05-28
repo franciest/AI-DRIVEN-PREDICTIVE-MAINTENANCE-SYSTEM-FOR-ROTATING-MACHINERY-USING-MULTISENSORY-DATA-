@@ -125,10 +125,10 @@ Alert includes:
 
 ## Installation
 
-### Clone Repository
+### Clone zip file of Machine and extract it
 
 ```bash
-git clone https://github.com/franciest/AI-DRIVEN-PREDICTIVE-MAINTENANCE-SYSTEM-FOR-ROTATING-MACHINERY-USING-MULTISENSORY-DATA-.git
+git clone Machine.zip
 
 ```
 
