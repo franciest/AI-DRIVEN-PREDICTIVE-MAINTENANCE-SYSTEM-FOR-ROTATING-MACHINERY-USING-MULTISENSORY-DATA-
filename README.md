@@ -128,8 +128,8 @@ Alert includes:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/franciest/AI-DRIVEN-PREDICTIVE-MAINTENANCE-SYSTEM-FOR-ROTATING-MACHINERY-USING-MULTISENSORY-DATA-.git
+
 ```
 
 ### Install Dependencies
